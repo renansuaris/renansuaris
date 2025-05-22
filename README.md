@@ -1,16 +1,22 @@
-## Hi there 👋
+## About Me  
+- 🚀 Backend Developer | 🌍 Brazilian  
+- 📚 Currently learning Spanish
+- 📊 Crypto Enthusiast
+- 💻 Passionate about Technology  
 
-<!--
-**renansuaris/renansuaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack  
+- 💻 Java, C, SQL
+- 🌐 Spring Boot, Docker  
+- 🧪 Experience with Unit Testing, UML  
 
-Here are some ideas to get you started:
+## Hobbies  
+- ⚽ Big fan of Football  
+- 🌍 Always up for new travel adventures  
+- 🎮 PC gamer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me  
+- 📧 Email: [renansoaresdev@gmail.com](mailto:renansoaresdev@gmail.com)
+
+## Let's Collaborate!  
+- 🤝 Always open to interesting projects and collaborations  
+- ✨ Check out my repositories and feel free to contribute or suggest improvements
