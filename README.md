@@ -1,6 +1,5 @@
 ## About Me  
-- 🚀 Backend Developer | 🌍 Brazilian  
-- 📚 Currently learning Spanish
+- 🚀 Backend Developer 
 - 📊 Crypto Enthusiast
 - 💻 Passionate about Technology  
 
@@ -11,12 +10,11 @@
 
 ## Hobbies  
 - ⚽ Big fan of Football  
-- 🌍 Always up for new travel adventures  
-- 🎮 PC gamer  
+- 🧢 Cap Collector
 
 ## Connect with Me  
 - 📧 Email: [renansoaresdev@gmail.com](mailto:renansoaresdev@gmail.com)
 
 ## Let's Collaborate!  
 - 🤝 Always open to interesting projects and collaborations  
-- ✨ Check out my repositories and feel free to contribute or suggest improvements
+- 🗃️ Check out my repositories and feel free to contribute or suggest improvements
