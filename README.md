@@ -4,7 +4,7 @@
 - 💻 Passionate about Technology  
 
 ## 🛠 Tech Stack  
-- 💻 Java, C, SQL
+- 💻 Java, Kotlin, SQL
 - 🌐 Spring Boot, Docker  
 - 🧪 Experience with Unit Testing, UML  
 
